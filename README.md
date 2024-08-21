@@ -23,10 +23,10 @@ This project is a front-end replica of the Starbucks coffee shop website, built 
 
 Here are some screenshots of the project:
 
-[Screenshot 1]![Screenshot 2024-08-21 194042](https://github.com/user-attachments/assets/21dac8c8-2878-4107-a0af-c562ff34373c)
-[Screenshot 2]![Screenshot 2024-08-21 194057](https://github.com/user-attachments/assets/97c2373e-f679-4bde-9871-fbc6159b5bd6)
-[Screenshot 3]![Screenshot 2024-08-21 194111](https://github.com/user-attachments/assets/e1e5e130-7bce-429c-ae17-2414ce6407ec)
-[Screenshot 4]![Screenshot 2024-08-21 194129](https://github.com/user-attachments/assets/93181ca1-0700-4f3e-b0e5-cdbee7f83a61)
+Screenshot 1 ![Screenshot 2024-08-21 194042](https://github.com/user-attachments/assets/21dac8c8-2878-4107-a0af-c562ff34373c)
+Screenshot 2 ![Screenshot 2024-08-21 194057](https://github.com/user-attachments/assets/97c2373e-f679-4bde-9871-fbc6159b5bd6)
+Screenshot 3 ![Screenshot 2024-08-21 194111](https://github.com/user-attachments/assets/e1e5e130-7bce-429c-ae17-2414ce6407ec)
+Screenshot 4 ![Screenshot 2024-08-21 194129](https://github.com/user-attachments/assets/93181ca1-0700-4f3e-b0e5-cdbee7f83a61)
 
 ## Future Updates
 
